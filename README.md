@@ -56,6 +56,7 @@ Enter the number of rows: 2
 Enter the number of columns per row: 5
 Output:
 Exam Seat Arrangement:
+
 Row: 1   Column: 1    USN: USN001
 
 Row: 1   Column: 2    USN: USN002
